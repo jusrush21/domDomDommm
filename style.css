@@ -1,6 +1,6 @@
-#square {
+#square-container {
     display: flex;
-    background-color:black;
+    flex-wrap: wrap;
 }
 
 .square {
